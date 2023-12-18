@@ -1,24 +1,26 @@
-## PREVIEW https://edybanica.xyz/FIIRBOTS-Tema1
+## Cerinte:
+* Pentru numerele de la 1 la 50 afisati mesajul ‘foo’ daca
+e divizibil cu 3, ‘bar’ daca e divizibil cu 5 si ‘foo
+bar’ daca e divizibil si cu 3 si cu 5.
+* Afisati numarul de divizori al unui numar.
+* Afisati daca un numar este prim.
+* Afisati daca un numar este palindrom ( de exemplu 54145.
+Citit invers e la fel)
+* Calculati suma tuturor numerelor de la 1 la 50 si
+produsul tuturor numerelor de la 1 la 15. Folositi cel
+putin 2 modalitati.
 
-## Caracteristici:
-* Dropdown cu activare prin Hover;
-* Responsive pentru orice device;
-* Redirectionare catre alte pagin;
-* Buton tip Toggle Navbar pt versiunea de mobile.
-
-## Bibliografie:
-* Responsive : https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag
-* Website Menu : https://colorlib.com/wp/template/website-menu-13/
-* Framework : https://getbootstrap.com/docs/5.3/customize/css-variables/
-* Font : https://fonts.google.com/specimen/Space+Mono?preview.text=FIIRBOTS
+## Mentiune:
+* Nu este nevoie sa cititi nimic de la tastatura.Adaugati
+numerele direct in program.
   
 ## CONTACT
-
 * Website: https://edybanica.xyz/
 * Mail: contact@edybanica.xyz
 * Instagram: https://www.instagram.com/edy_banica/
 ##  
-![FIIRBOTS-Tema1](https://github.com/edybanica/Responsive-Navbar/assets/153543893/49455244-f4f9-4b2f-a0cc-c83e8bc8917a)
+![Screenshot 2023-12-18 225749](https://github.com/edybanica/Curs0_JavaScript/assets/153543893/677a94c7-7eb1-4078-8e25-6906f06a609f)
+![Screenshot 2023-12-18 225853](https://github.com/edybanica/Curs0_JavaScript/assets/153543893/80d9eb52-c0f6-4900-9d72-bcd13d8cfc89)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
